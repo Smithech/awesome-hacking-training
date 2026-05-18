@@ -95,6 +95,7 @@
 - [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking. 
 - [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. You need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
 - [Pwnable.tw](https://pwnable.tw/) - Wargame site to test and expand binary exploitation skills.
+- [Research Labs](https://researchlabs.tech/) - A technical platform dedicated for learning and practicing technological research.
 - [Root Me](https://www.root-me.org/) - It offers challenges on various cybersecurity and CTF topics, and a community to contribute and discuss.
 - [Smash The Stack](https://www.smashthestack.org/main.html#wargames) - An ethical hacking environment that simulates real-world software vulnerabilities to test skills, and abilities in reverse engineering, web app pen-testing, software exploitation, and much more.
 - [Try Hack Me](https://tryhackme.com/) - Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.
