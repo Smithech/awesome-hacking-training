@@ -85,6 +85,7 @@
 ## Platforms to Improve Hacking Skills
 
 - [Atenea](https://atenea.ccn-cert.cni.es/) - Cybersecurity platform that presents a number of challenges in Cryptography and Steganography, Exploiting, Forensics, Networking, and Reversing.
+- [CyberKiller](https://cyberkiller.net) - Free live King-of-the-Hill hacking arena with rotating scenarios: a Game of Thrones Active Directory forest (GOAD) and a corporate Linux breach chain, with capture-and-hold flags and a live scoreboard.
 - [Exploit.education](https://exploit.education/) - Provides a variety of resources to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cybersecurity topics.
 - [Hack The Box](https://www.hackthebox.com/) -  Cybersecurity training platform, includes academy, labs, CTFs, and job board.
 - [Hack The Site](https://www.hackthissite.org/) - A free training ground to test and expand their ethical hacking skills with challenges, CTFs, and more.
