@@ -93,6 +93,7 @@
 - [Hacker 101](https://www.hacker101.com/) - A platform for learn in web hacking and bug bounties.
 - [Hackviser](https://hackviser.com/) - A cybersecurity upskilling platform with training, scenarios, labs, and warm-ups.
 - [Newbie Contest](https://www.newbiecontest.org/) - Tailored cybersecurity upskilling platform for all levels.
+- [OnlySecurity](https://onlysecurity.com/learning-paths/) - Free lock picking (SPARROWS), Proxmark RFID, Hak5 and Electronic Cats courses (account required).
 - [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts.
 - [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking.
 - [RansomLeak](https://ransomleak.com/catalogue/application-security/) - Interactive browser-based platform covering Application Security, API Security, Cloud Security, Git Security, and AI Security with hands-on labs based on OWASP Top 10. 
